@@ -50,7 +50,7 @@
   { 
     "remote": "th",
     "repository": "android_external_connectivity",
-    "target_path": "external/connectivity"
+    "target_path": "external/connectivity",
     "revision": "mm"
   }
 ]
