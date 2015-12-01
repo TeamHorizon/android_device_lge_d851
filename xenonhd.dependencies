@@ -42,15 +42,9 @@
     "revision": "mm"
   },
   {
-    "remote": "th",  
+    "remote": "th",
     "repository": "android_hardware_sony_thermanager",
     "target_path": "hardware/sony/thermanager",
-    "revision": "mm"
-  },
-  { 
-    "remote": "th",
-    "repository": "android_external_connectivity",
-    "target_path": "external/connectivity",
     "revision": "mm"
   }
 ]
